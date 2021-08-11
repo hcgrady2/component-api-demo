@@ -1,0 +1,16 @@
+com/kpa/base/BR.java
+ com.kpa.base.BR
+com/user/api/base/BR.java
+ com.user.api.base.BR
+com/user/api/base/DataBindingTriggerClass.java
+ com.user.api.base.DataBindingTriggerClass
+com/user/api/base/DataBinderMapperImpl.java
+ com.user.api.base.DataBinderMapperImpl
+ com.user.api.base.DataBinderMapperImpl$InnerBrLookup
+ com.user.api.base.DataBinderMapperImpl$InnerLayoutIdLookup
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/user/api/base/BuildConfig.java
+ com.user.api.base.BuildConfig
